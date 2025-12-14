@@ -74,11 +74,13 @@ Le backend agit comme **OAuth2 Resource Server** et valide les JWT émis par Key
 
 
 ### Captures d’écran
-Authentification via Keycloak
+
+#### Authentification via Keycloak
 Lorsqu’un utilisateur accède au frontend sans être authentifié, il est redirigé vers Keycloak.
 
-img/1.png
-Accès ADMIN après authentification
-Après connexion avec un compte ADMIN, l’accès aux fonctionnalités est autorisé.
-img/2.png
+![Authentification via Keycloak](img/1.png)
 
+#### Accès ADMIN après authentification
+Après connexion avec un compte ADMIN, l’accès aux fonctionnalités est autorisé.
+
+![Accès ADMIN](img/2.png)
