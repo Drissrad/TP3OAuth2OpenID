@@ -34,10 +34,7 @@ Keycloak (http://localhost:8080)
 v
 Spring Boot API (http://localhost:8081)
 
-yaml
-Copy code
 
----
 
 ## Rôles et accès
 
